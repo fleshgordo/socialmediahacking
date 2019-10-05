@@ -6,7 +6,7 @@ Some scripts and installation step-by-step guide for running automatized actions
 
 Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads). 
 
-Download the [VirtualBox extansion pack](https://download.virtualbox.org/virtualbox/6.0.12/Oracle_VM_VirtualBox_Extension_Pack-6.0.12.vbox-extpack) and double-click it.
+Download the [VirtualBox extension pack](https://download.virtualbox.org/virtualbox/6.0.12/Oracle_VM_VirtualBox_Extension_Pack-6.0.12.vbox-extpack) and double-click it.
 
 Get our prepared virtualbox image with preinstalled Ubuntu. 
 

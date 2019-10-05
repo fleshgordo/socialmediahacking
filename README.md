@@ -14,6 +14,8 @@ Get our prepared virtualbox image with preinstalled Ubuntu.
 
 Import the Virtualbox image and start the virtualmachine. Username/password are chronus/chronus.
 
+Password: chronus
+
 Open the terminal and write:
 ```
 sh '/home/osboxes/startup.sh'

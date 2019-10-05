@@ -32,3 +32,5 @@ Install via NPM Cypress
 
 npm install --save-dev cypressio
 
+[PATH-to-where-cypress-was-installed]/node_modules/.bin/cypress open
+

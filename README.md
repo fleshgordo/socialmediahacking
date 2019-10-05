@@ -2,7 +2,7 @@
 
 Some scripts and installation step-by-step guide for running automatized actions on webpages.
 
-## Installation
+## Installation for the workshop @ Chronus art center
 
 Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads). 
 

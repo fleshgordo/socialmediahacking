@@ -22,4 +22,13 @@ We will use cypress.io which is a web end-to-end testing tool. You can write scr
   - [Cypress Scenario Recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb?hl=en)
   - Ubuntu 19.04 with preinstalled [nodejs](https://nodejs.org/en/) and [cypress.io](https://www.cypress.io/)
 
+## Installing Cypress (locally)
+
+Open the terminal and go to the folder Cypress from this repository
+
+cd [PATH-to-where-was-downloaded]/socialmediahacking/cypress
+
+Install via NPM Cypress
+
+npm install --save-dev cypressio
 

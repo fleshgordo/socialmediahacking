@@ -29,8 +29,12 @@ Open the terminal and go to the folder Cypress from this repository
 cd [PATH-to-where-was-downloaded]/socialmediahacking/cypress
 
 Install via NPM Cypress
-
+```
 npm install --save-dev cypressio
-
+```
+Open Cypress 
+```
 [PATH-to-where-cypress-was-installed]/node_modules/.bin/cypress open
+```
+
 
